@@ -1,6 +1,6 @@
 # MiniMips-Assembler-in-Python3
 
-This is a program(written in Pyhton3) which simulates a two-pass MiniMIPS assembler
+This is a program(written in Python3) which simulates a two-pass MiniMIPS assembler
 
 ### The instructions implemented in the code are as following:-
 #### A. R Type:
